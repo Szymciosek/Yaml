@@ -1,0 +1,3 @@
+<?php
+require_once __DIR__ . '/Moss/component/reader/ReaderInterface.php';
+require_once __DIR__ . '/Moss/component/reader/YAMLReader.php';
